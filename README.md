@@ -34,7 +34,7 @@ summary {
 <div align="center">
   <span>
     <h1>Hello, I'm Ethan,</h1>
-    <h4>I'm a freelance Web Designer, Graphic Designer, and a Project Manager. But among other things, I'm a hard working Highschool student who puts his best foot forward no matter what he attempts. Please take a look at my <a resources/img/resume.pdf target="_blank">Resume</a> for more information.</h4>
+    <h4>I'm a freelance Web Designer, Graphic Designer, and a Project Manager. But among other things, I'm a hard working Highschool student who puts his best foot forward no matter what he attempts. Please take a look at my <a href= "resources/img/resume.pdf" target="_blank">Resume</a> for more information.</h4>
   </span>
 </div>
 
